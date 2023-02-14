@@ -1,5 +1,6 @@
 
 <h1 align="center">ProxiesGrab</h1>
+<h1 align="center">ProxiesGrab has been changed to <a href="https://github.com/I2rys/proxcrape">proxcrape</a></h1>
 <h4 align="center">A really simple HTTP/HTTPS, SOCKS4 & SOCKS5 Proxies grabber</h4>
 <p align="center">
 	<a href="https://github.com/I2rys/ProxiesGrab/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/ProxiesGrab?style=flat-square"></img></a>
